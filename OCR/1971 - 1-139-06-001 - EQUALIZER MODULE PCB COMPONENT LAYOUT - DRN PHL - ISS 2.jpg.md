@@ -33,7 +33,7 @@ Hand-drawn component layout of the M402B equalizer module PCB showing placement 
 - **Closed boxes:** 29
 - **Dots (junctions):** 2
 
-Every curve, box, word and wire group: [1971 - 1-139-06-001 - EQUALIZER MODULE PCB COMPONENT LAYOUT - DRN PHL - ISS 2 (traced).json](../SCHEMATICS/1971%20-%201-139-06-001%20-%20EQUALIZER%20MODULE%20PCB%20COMPONENT%20LAYOUT%20-%20DRN%20PHL%20-%20ISS%202%20(traced).json) (the CAD file: `1971 - 1-139-06-001 - EQUALIZER MODULE PCB COMPONENT LAYOUT - DRN PHL - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 1-139-06-001 - EQUALIZER MODULE PCB COMPONENT LAYOUT - DRN PHL - ISS 2 (traced).json](../SCHEMATICS/1971%20-%201-139-06-001%20-%20EQUALIZER%20MODULE%20PCB%20COMPONENT%20LAYOUT%20-%20DRN%20PHL%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1971 - 1-139-06-001 - EQUALIZER MODULE PCB COMPONENT LAYOUT - DRN PHL - ISS 2 (traced).dxf`).
 
 ## Full text
 

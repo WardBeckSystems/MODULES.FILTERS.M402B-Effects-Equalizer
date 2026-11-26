@@ -21,7 +21,7 @@ Wiki page: [M402B](../../../../PAGES/M402B.md)
 - **Closed boxes:** 13
 - **Wiring (first pass):** 107 connected wire groups from 533 runs
 
-Every curve, box, word and wire group: [1970 - M402B - 402-09-001 - TIR' MINBEND RAD UNLESS SPECIFIED (traced).json](../SCHEMATICS/1970%20-%20M402B%20-%20402-09-001%20-%20TIR%27%20MINBEND%20RAD%20UNLESS%20SPECIFIED%20(traced).json) (the CAD file: `1970 - M402B - 402-09-001 - TIR' MINBEND RAD UNLESS SPECIFIED (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M402B - 402-09-001 - TIR' MINBEND RAD UNLESS SPECIFIED (traced).json](../SCHEMATICS/1970%20-%20M402B%20-%20402-09-001%20-%20TIR%27%20MINBEND%20RAD%20UNLESS%20SPECIFIED%20%28traced%29.json) (the CAD file: `1970 - M402B - 402-09-001 - TIR' MINBEND RAD UNLESS SPECIFIED (traced).dxf`).
 
 ## Full text
 

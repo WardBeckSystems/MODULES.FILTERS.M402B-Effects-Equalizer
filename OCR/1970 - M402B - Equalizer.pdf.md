@@ -27,7 +27,7 @@ Wiki page: [M402B](../../../../PAGES/M402B.md)
 - **Words (OCR):** 22 in 12 lines: EQUALIZER MODULE · MODEL 402-B · DESIGNED AND MANUFACTURED · BY · WARD-BECK · SYSTEMS LIMITED · PROGRESS AVENUE · 841 · SCARBOROU GH , ONTARIO MlH 2x4 · (416) 438-6550 · Telex · 06-23469
 - **Title block:** (96, 149)–(179, 173) mm: BY · WARD-BECK · SYSTEMS LIMITED · PROGRESS AVENUE · 841
 
-Every curve, box, word and wire group: [1970 - M402B - Equalizer p1 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p1%20(traced).json) (the CAD file: `1970 - M402B - Equalizer p1 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M402B - Equalizer p1 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p1%20%28traced%29.json) (the CAD file: `1970 - M402B - Equalizer p1 (traced).dxf`).
 
 ### Page 2
 
@@ -37,7 +37,7 @@ Every curve, box, word and wire group: [1970 - M402B - Equalizer p1 (traced).jso
 - **Closed boxes:** 312
 - **Words (OCR):** 3 in 3 lines: +I0 · UE · URVE
 
-Every curve, box, word and wire group: [1970 - M402B - Equalizer p2 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p2%20(traced).json) (the CAD file: `1970 - M402B - Equalizer p2 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M402B - Equalizer p2 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p2%20%28traced%29.json) (the CAD file: `1970 - M402B - Equalizer p2 (traced).dxf`).
 
 ### Page 3
 
@@ -48,7 +48,7 @@ Every curve, box, word and wire group: [1970 - M402B - Equalizer p2 (traced).jso
 - **Dots (junctions):** 1
 - **Words (OCR):** 6 in 5 lines: FEL EssEa · IQOHZ · IOKHZ · +12 · +I0
 
-Every curve, box, word and wire group: [1970 - M402B - Equalizer p3 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p3%20(traced).json) (the CAD file: `1970 - M402B - Equalizer p3 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M402B - Equalizer p3 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p3%20%28traced%29.json) (the CAD file: `1970 - M402B - Equalizer p3 (traced).dxf`).
 
 ### Page 4
 
@@ -58,7 +58,7 @@ Every curve, box, word and wire group: [1970 - M402B - Equalizer p3 (traced).jso
 - **Closed boxes:** 65
 - **Words (OCR):** 5 in 5 lines: UFFEL · fiOOHZ · KHZ · I0 · 44
 
-Every curve, box, word and wire group: [1970 - M402B - Equalizer p4 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p4%20(traced).json) (the CAD file: `1970 - M402B - Equalizer p4 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M402B - Equalizer p4 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p4%20%28traced%29.json) (the CAD file: `1970 - M402B - Equalizer p4 (traced).dxf`).
 
 ### Page 5
 
@@ -68,7 +68,7 @@ Every curve, box, word and wire group: [1970 - M402B - Equalizer p4 (traced).jso
 - **Closed boxes:** 136
 - **Words (OCR):** 3 in 3 lines: KCUFFCL · ZER · ES
 
-Every curve, box, word and wire group: [1970 - M402B - Equalizer p5 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p5%20(traced).json) (the CAD file: `1970 - M402B - Equalizer p5 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M402B - Equalizer p5 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p5%20%28traced%29.json) (the CAD file: `1970 - M402B - Equalizer p5 (traced).dxf`).
 
 ### Page 6
 
@@ -78,7 +78,7 @@ Every curve, box, word and wire group: [1970 - M402B - Equalizer p5 (traced).jso
 - **Closed boxes:** 47
 - **Words (OCR):** 1 in 1 lines: KHZ
 
-Every curve, box, word and wire group: [1970 - M402B - Equalizer p6 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p6%20(traced).json) (the CAD file: `1970 - M402B - Equalizer p6 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M402B - Equalizer p6 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p6%20%28traced%29.json) (the CAD file: `1970 - M402B - Equalizer p6 (traced).dxf`).
 
 ### Page 7
 
@@ -89,7 +89,7 @@ Every curve, box, word and wire group: [1970 - M402B - Equalizer p6 (traced).jso
 - **Dots (junctions):** 1
 - **Words (OCR):** 3 in 3 lines: IKHZ · IOKHZ · NG;
 
-Every curve, box, word and wire group: [1970 - M402B - Equalizer p7 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p7%20(traced).json) (the CAD file: `1970 - M402B - Equalizer p7 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M402B - Equalizer p7 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p7%20%28traced%29.json) (the CAD file: `1970 - M402B - Equalizer p7 (traced).dxf`).
 
 ### Page 8
 
@@ -102,7 +102,7 @@ Every curve, box, word and wire group: [1970 - M402B - Equalizer p7 (traced).jso
 - **Words (OCR):** 33 in 27 lines: VvE-(o': · HF J5 · Ti · 'BS 68-7 · SWAB · SWAA" · PRFS · Sw34B · Sw2 · PCB 1-139 · SWIB_ · 15
 - **Title block:** (236, 16)–(374, 61) mm: WARD · DRN · DATE No; 71 · EQJALIZER MODULE · LAYour
 
-Every curve, box, word and wire group: [1970 - M402B - Equalizer p8 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p8%20(traced).json) (the CAD file: `1970 - M402B - Equalizer p8 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M402B - Equalizer p8 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p8%20%28traced%29.json) (the CAD file: `1970 - M402B - Equalizer p8 (traced).dxf`).
 
 ### Page 9
 
@@ -114,7 +114,7 @@ Every curve, box, word and wire group: [1970 - M402B - Equalizer p8 (traced).jso
 - **Words (OCR):** 92 in 81 lines: CIS,i8 &51 CCWVN ON UNDERSIDE JF BOARD · Re i2 Qce · 4R2 · (32 · CSICF · IC TE', · C3i · {Ji · 33 34 · CI3 · RISRI} RI4 · RIS
 - **Title block:** (102, 28)–(379, 61) mm: Ckd · ON · WARD BECK · Kod · TOLS · Moo Ra; · 4028 · (FInish · DRN · PHL · Oct 71
 
-Every curve, box, word and wire group: [1970 - M402B - Equalizer p9 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p9%20(traced).json) (the CAD file: `1970 - M402B - Equalizer p9 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M402B - Equalizer p9 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p9%20%28traced%29.json) (the CAD file: `1970 - M402B - Equalizer p9 (traced).dxf`).
 
 ### Page 10
 
@@ -128,7 +128,7 @@ Every curve, box, word and wire group: [1970 - M402B - Equalizer p9 (traced).jso
 - **Title block:** (276, 4)–(397, 235) mm: output · 620 · (SySTEmS OUPUT) · Ig 0 · 3OO · 13 @ · OuTPUT · 6o0 · LOAD · SYSTEMS GND BAR · OR · GROUNo · WBS WAAD-BECK ByBTeM8 LTo. · DRN: · f; J · DATE JAN 70 · M40z A(B) & MAO44 · CKD · SYSTEM · W
 - **Wiring (first pass):** 50 connected wire groups from 243 runs; labelled ends: 659 mm → GROUNo, WBS, psSMoccko, 5 17/8; 223 mm → SEE; 130 mm → M4O2 A; 106 mm → 48, +24, OR Equiv: CoM; 103 mm → 48, +24
 
-Every curve, box, word and wire group: [1970 - M402B - Equalizer p10 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p10%20(traced).json) (the CAD file: `1970 - M402B - Equalizer p10 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M402B - Equalizer p10 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p10%20%28traced%29.json) (the CAD file: `1970 - M402B - Equalizer p10 (traced).dxf`).
 
 ### Page 11
 
@@ -139,7 +139,7 @@ Every curve, box, word and wire group: [1970 - M402B - Equalizer p10 (traced).js
 - **Words (OCR):** 74 in 49 lines: PAD IN · S Y:TEMS EX TEZNAL · PAD · PzovisioN · PAD OUT · (M434A) · 6c@n STRAF 6 To 7 · TRANSFOFMER · IEc n STRAF · 5 To7 · iNPUT · AND
 - **Title block:** (200, 56)–(287, 240) mm: SYSTEMS OUTPUT · EXTERNAL 6dB · PAD · REQUIRED: · LAMP · FEED To 2 4 V · SYSTEMS LTD,
 
-Every curve, box, word and wire group: [1970 - M402B - Equalizer p11 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p11%20(traced).json) (the CAD file: `1970 - M402B - Equalizer p11 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M402B - Equalizer p11 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p11%20%28traced%29.json) (the CAD file: `1970 - M402B - Equalizer p11 (traced).dxf`).
 
 ### Page 12
 
@@ -153,7 +153,7 @@ Every curve, box, word and wire group: [1970 - M402B - Equalizer p11 (traced).js
 - **Title block:** (344, 8)–(432, 32) mm: OHI · 16 · Mod CKD · MzEKaAs Ed sdmeoraues WARD BECK_SYSHELS_LID · m0 · DRN · PAL · {QLAL:ZE? (^ODULE · M402 3 · DATE · NoJ Z · PC B SCHEMATIC · CHD 2L
 - **Wiring (first pass):** 133 connected wire groups from 873 runs; labelled ends: 388 mm → 470, Rzo, iook, R2s; 298 mm → 234, 3ok, 2yei, Kioki; 280 mm → c2, Rgs, 3k9, Ri9_; 175 mm → C57, 47/20, R30 3k6< 5k63, 2k2; 170 mm → 470k< iok<, B8
 
-Every curve, box, word and wire group: [1970 - M402B - Equalizer p12 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p12%20(traced).json) (the CAD file: `1970 - M402B - Equalizer p12 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M402B - Equalizer p12 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p12%20%28traced%29.json) (the CAD file: `1970 - M402B - Equalizer p12 (traced).dxf`).
 
 ### Page 13
 
@@ -163,7 +163,7 @@ Every curve, box, word and wire group: [1970 - M402B - Equalizer p12 (traced).js
 - **Closed boxes:** 18; named: PL; CD
 - **Words (OCR):** 21 in 21 lines: 749 · ToX · Crio · Lep · 236 · PESSTOCS · 401 · 2k7 · 04o · 250 · WSERT · LF boost
 
-Every curve, box, word and wire group: [1970 - M402B - Equalizer p13 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p13%20(traced).json) (the CAD file: `1970 - M402B - Equalizer p13 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M402B - Equalizer p13 (traced).json](../MANUALS/1970%20-%20M402B%20-%20Equalizer%20p13%20%28traced%29.json) (the CAD file: `1970 - M402B - Equalizer p13 (traced).dxf`).
 
 ## Full text
 
