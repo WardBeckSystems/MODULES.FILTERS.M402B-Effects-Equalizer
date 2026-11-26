@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/FILTERS/M402B/MANUALS/1970 - M402B - Equalizer (2).pdf",
+ "page": 11,
+ "version": 1,
+ "trace": "_traces/5fdc0175b31bd53d-p11.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "11", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.3, 4.0, 329.0, 411.5],
+ "outlines": {
+  "line": {"rings": 937, "straight": {"n": 12142, "mm": 15320.0}, "curved": {"n": 2435, "mm": 3794.2}},
+  "text": {"rings": 6, "straight": {"n": 38, "mm": 44.8}, "curved": {"n": 12, "mm": 22.1}}
+ },
+ "circles": [
+  {"c": [70.4, 199.9], "r": 4.6, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [195.3, 52.6], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [269.3, 51.8], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [267.7, 32.3], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [20.9, 57.7], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [199.4, 15.5], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0},
+  {"c": [221.4, 33.0], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [105.4, 106.1], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [225.9, 15.2], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0},
+  {"c": [169.9, 97.2], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [308.0, 218.6], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [156.9, 223.4], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [70.7, 285.7], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [285.6, 218.7], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [172.7, 13.4, 176.6, 15.5], "w": 3.9, "h": 2.2, "from": "ring"}],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [299.7, 65.2, 320.0, 74.3], "text": "ca"},
+   {"mm": [288.2, 53.8, 309.2, 62.9], "text": "ps"},
+   {"mm": [276.8, 42.5, 298.6, 54.0], "text": "BS"},
+   {"mm": [254.5, 20.1, 272.9, 27.3], "text": "tp"},
+   {"mm": [247.4, 13.0, 268.4, 20.2], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [314.3, 321.0], "r": 1.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–329 mm across, 4–412 mm up",
+  "- **Outlines:** line 937 rings, 12,142 straight (15,320 mm) / 2,435 curved (3,794 mm); text 6 rings, 38 straight (44.8 mm) / 12 curved (22.1 mm)",
+  "- **Circles and arcs:** 14 circles, 0 arcs; largest r 4.6 @ (70.4, 199.9), r 3.3 @ (195.3, 52.6), r 3.2 @ (269.3, 51.8), r 3.2 @ (267.7, 32.3)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 5 in 5 lines: ca · ps · BS · tp · ht"
+ ]
+}

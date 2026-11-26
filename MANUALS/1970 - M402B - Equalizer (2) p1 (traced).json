@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/FILTERS/M402B/MANUALS/1970 - M402B - Equalizer (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/5fdc0175b31bd53d-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [20.1, 13.8, 320.0, 411.5],
+ "outlines": {
+  "line": {"rings": 194, "straight": {"n": 2228, "mm": 2529.5}, "curved": {"n": 647, "mm": 965.8}},
+  "text": {"rings": 8, "straight": {"n": 44, "mm": 77.2}, "curved": {"n": 18, "mm": 40.8}}
+ },
+ "circles": [
+  {"c": [129.8, 154.1], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [181.2, 146.2], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [157.6, 146.3], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [125.8, 146.4], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [180.1, 317.6], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [195.4, 143.8, 199.5, 148.1], "w": 4.1, "h": 4.3, "from": "ring"}],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [299.7, 65.2, 320.0, 74.3], "text": "ca"},
+   {"mm": [288.2, 53.8, 309.2, 62.9], "text": "ps"},
+   {"mm": [276.8, 42.5, 298.6, 54.0], "text": "BS"},
+   {"mm": [254.5, 20.1, 272.9, 27.3], "text": "tp"},
+   {"mm": [247.4, 13.0, 268.4, 20.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 20–320 mm across, 14–412 mm up",
+  "- **Outlines:** line 194 rings, 2,228 straight (2,530 mm) / 647 curved (966 mm); text 8 rings, 44 straight (77.2 mm) / 18 curved (40.8 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 2.2 @ (129.8, 154.1), r 2.2 @ (181.2, 146.2), r 2.1 @ (157.6, 146.3), r 2.1 @ (125.8, 146.4)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 5 in 5 lines: ca · ps · BS · tp · ht"
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/FILTERS/M402B/MANUALS/1970 - M402B - Equalizer.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/de92ea758b6d90e4-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [20.1, 105.1, 226.9, 411.5],
+ "outlines": {
+  "line": {"rings": 5, "straight": {"n": 15, "mm": 11.7}, "curved": {"n": 6, "mm": 8.8}},
+  "text": {"rings": 176, "straight": {"n": 2068, "mm": 2206.0}, "curved": {"n": 612, "mm": 899.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [129.5, 314.1, 198.4, 321.1], "text": "EQUALIZER MODULE"},
+   {"mm": [129.5, 300.1, 183.1, 307.1], "text": "MODEL 402-B"},
+   {"mm": [103.0, 173.2, 204.0, 180.1], "text": "DESIGNED AND MANUFACTURED"},
+   {"mm": [138.6, 165.8, 148.3, 172.3], "text": "BY"},
+   {"mm": [103.0, 158.0, 140.8, 164.5], "text": "WARD-BECK"},
+   {"mm": [142.9, 157.6, 204.0, 164.6], "text": "SYSTEMS LIMITED"},
+   {"mm": [119.2, 150.7, 180.7, 157.7], "text": "PROGRESS AVENUE"},
+   {"mm": [103.0, 151.1, 116.4, 157.6], "text": "841"},
+   {"mm": [103.0, 142.5, 215.9, 150.2], "text": "SCARBOROU GH , ONTARIO MlH 2x4"},
+   {"mm": [104.1, 134.9, 160.2, 142.6], "text": "(416) 438-6550"},
+   {"mm": [103.0, 127.8, 125.0, 134.8], "text": "Telex"},
+   {"mm": [127.4, 128.2, 160.2, 135.2], "text": "06-23469"}
+  ]
+ },
+ "title_block": {
+  "mm": [96.4, 149.0, 178.8, 173.2],
+  "from": "title-block words (training set)",
+  "text": ["BY", "WARD-BECK", "SYSTEMS LIMITED", "PROGRESS AVENUE", "841"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 20–227 mm across, 105–412 mm up",
+  "- **Outlines:** line 5 rings, 15 straight (11.7 mm) / 6 curved (8.8 mm); text 176 rings, 2,068 straight (2,206 mm) / 612 curved (899 mm)",
+  "- **Words (OCR):** 22 in 12 lines: EQUALIZER MODULE · MODEL 402-B · DESIGNED AND MANUFACTURED · BY · WARD-BECK · SYSTEMS LIMITED · PROGRESS AVENUE · 841 · SCARBOROU GH , ONTARIO MlH 2x4 · (416) 438-6550 · Telex · 06-23469",
+  "- **Title block:** (96, 149)–(179, 173) mm: BY · WARD-BECK · SYSTEMS LIMITED · PROGRESS AVENUE · 841"
+ ]
+}
