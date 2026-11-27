@@ -1,17 +1,17 @@
-# M402B · Filters
+# M402B Effects Equalizer · Filters
 
 Ward-Beck Systems M402B, 1970|3. Wiki page: [M402B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M402B.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 30 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 5 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 105 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 7 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 44 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 9 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 42 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -28,7 +28,7 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMUprNjFFVHQ3c3M/view?resourcekey=0-mqrHT35N2uTnbDpJKHWqUA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMUprNjFFVHQ3c3M&resourcekey=0-mqrHT35N2uTnbDpJKHWqUA" width="240" alt="1970 - M402B - wbsps - module - m402b equalizer 002.jpg"></a><br><sub>1970|3 · wbsps - module - m402b equalizer 002</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [1970|3 · wbsps - module - m402b equalizer 001_small](https://drive.google.com/file/d/0B0yR0b5T78SKTS14RThFVHdWckU/view?resourcekey=0-TeZMnwXnJGlrcVdAercJwA) · [1970|3 · wbsps - module - m402b equalizer 002_small](https://drive.google.com/file/d/0B0yR0b5T78SKWHRFMHJqWElRdG8/view?resourcekey=0-uu4577OBSQIXuyWtMUG2ng) · [1970|3 · wbsps - module - m402b equalizer 003_small](https://drive.google.com/file/d/0B0yR0b5T78SKanBwcXBxd1ZXZ1U/view?resourcekey=0-BZC8YUFwxoZakb7TUkhyXA)
+Shared privately on Google Drive (opens after sign-in): [1970|3 · wbsps - module - m402b equalizer 003_small](https://drive.google.com/file/d/0B0yR0b5T78SKanBwcXBxd1ZXZ1U/view?resourcekey=0-BZC8YUFwxoZakb7TUkhyXA)
 
 ## Mechanical
 
@@ -38,23 +38,13 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKajF4Z1JkMFUyUmc/view?resourcekey=0-CVmV3kcT6_HuIWitFKRLkA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKajF4Z1JkMFUyUmc&resourcekey=0-CVmV3kcT6_HuIWitFKRLkA" width="240" alt="1970 - M402B - B 402-04-005 - M402B - EQUALIZER MODULE - LAYOUT.gif"></a><br><sub>1970|3 · B 402-04-005 - M402B - EQUALIZER MODULE - LAYOUT</sub></td></tr>
 </table>
 
-## 3-D model
-
-[`MECHANICAL/M402B.stl`](MECHANICAL/M402B.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M402B)
-
-- **Size:** 41 × 144.53 mm panel, 165 mm deep, 3.2 mm plate (assumed 41 mm wide (1.6"), the drawn panel's proportions)
-- **From the drawing:** 4 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M402B - front panel.svg`)
-- the drawn panel is 0.25 wide to high, the size 0.28: placed by its height
-- Made by `tools/module_models.py` (→ `MECHANICAL/M402B.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
-
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZjlJcFJIb0ptZEk/view?resourcekey=0-znKPHc8zZopYvX9O0qzF_g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZjlJcFJIb0ptZEk&resourcekey=0-znKPHc8zZopYvX9O0qzF_g" width="240" alt="1970 - M402B - 1-139-02-001.jpg"></a><br><sub>1970|3 · 1-139-02-001 · <a href="SCHEMATICS/1970%20-%20M402B%20-%201-139-02-001%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNG5uNF9kZWttaFE/view?resourcekey=0-NEKo_9LVgfbVljNsfXTCkQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNG5uNF9kZWttaFE&resourcekey=0-NEKo_9LVgfbVljNsfXTCkQ" width="240" alt="1970 - M402B - 139-06-001 - MIM'BEND RAD UNLESS SPECIFED.jpg"></a><br><sub>1970|3 · 139-06-001 - MIM'BEND RAD UNLESS SPECIFED · <a href="SCHEMATICS/1970%20-%20M402B%20-%20139-06-001%20-%20MIM%27BEND%20RAD%20UNLESS%20SPECIFED%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMnI4cmtXUTVmZ0k/view?resourcekey=0-ustrkaVgBdy2quxq8DbxcQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMnI4cmtXUTVmZ0k&resourcekey=0-ustrkaVgBdy2quxq8DbxcQ" width="240" alt="1970 - M402B - 402-02-012 - WAAD-BECK BYBTEMB LTO ISSMOCKD.gif"></a><br><sub>1970|3 · 402-02-012 - WAAD-BECK BYBTEMB LTO ISSMOCKD</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdVFOTUU4czBUNUU/view?resourcekey=0-d-4ukmLYS0_kravvAn3DFA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdVFOTUU4czBUNUU&resourcekey=0-d-4ukmLYS0_kravvAn3DFA" width="240" alt="1970 - M402B - 402-02-013.jpg"></a><br><sub>1970|3 · 402-02-013 · <a href="SCHEMATICS/1970%20-%20M402B%20-%20402-02-013%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQXFYbDM2VThCUzA/view?resourcekey=0-ZKcIXX88AGMm8BwCkM_cfA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQXFYbDM2VThCUzA&resourcekey=0-ZKcIXX88AGMm8BwCkM_cfA" width="240" alt="1970 - M402B - 402-09-001 - TIR' MINBEND RAD UNLESS SPECIFIED.jpg"></a><br><sub>1970|3 · 402-09-001 - TIR' MINBEND RAD UNLESS SPECIFIED · <a href="SCHEMATICS/1970%20-%20M402B%20-%20402-09-001%20-%20TIR%27%20MINBEND%20RAD%20UNLESS%20SPECIFIED%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV0Y3cmZEUGE3VnM/view?resourcekey=0-HiDU6vt3xSsS3XhdPXEfRQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV0Y3cmZEUGE3VnM&resourcekey=0-HiDU6vt3xSsS3XhdPXEfRQ" width="240" alt="1970 - M402B - 404-09-002 - BEND RAD UNLESS SPECIFIED.jpg"></a><br><sub>1970|3 · 404-09-002 - BEND RAD UNLESS SPECIFIED · <a href="SCHEMATICS/1970%20-%20M402B%20-%20404-09-002%20-%20BEND%20RAD%20UNLESS%20SPECIFIED%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSldscXZjVFNUZWs/view?resourcekey=0-uqJqjeTMKiwW46BqTE0XWA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSldscXZjVFNUZWs&resourcekey=0-uqJqjeTMKiwW46BqTE0XWA" width="240" alt="1971 - M402B - B 1-139-06-001 - M402B EQUALIZER MODULE PCB - COMPONENT LAYOUT.gif"></a><br><sub>1971|4 · B 1-139-06-001 - M402B EQUALIZER MODULE PCB - COMPONENT LAYOUT</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNG5uNF9kZWttaFE/view?resourcekey=0-NEKo_9LVgfbVljNsfXTCkQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNG5uNF9kZWttaFE&resourcekey=0-NEKo_9LVgfbVljNsfXTCkQ" width="240" alt="1970 - M402B - 139-06-001 - MIM'BEND RAD UNLESS SPECIFED.jpg"></a><br><sub>1970|3 · 139-06-001 - MIM'BEND RAD UNLESS SPECIFED · <a href="SCHEMATICS/1970%20-%20M402B%20-%20139-06-001%20-%20MIM%27BEND%20RAD%20UNLESS%20SPECIFED%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMnI4cmtXUTVmZ0k/view?resourcekey=0-ustrkaVgBdy2quxq8DbxcQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMnI4cmtXUTVmZ0k&resourcekey=0-ustrkaVgBdy2quxq8DbxcQ" width="240" alt="1970 - M402B - 402-02-012 - WAAD-BECK BYBTEMB LTO ISSMOCKD.gif"></a><br><sub>1970|3 · 402-02-012 - WAAD-BECK BYBTEMB LTO ISSMOCKD</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdVFOTUU4czBUNUU/view?resourcekey=0-d-4ukmLYS0_kravvAn3DFA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdVFOTUU4czBUNUU&resourcekey=0-d-4ukmLYS0_kravvAn3DFA" width="240" alt="1970 - M402B - 402-02-013.jpg"></a><br><sub>1970|3 · 402-02-013 · <a href="SCHEMATICS/1970%20-%20M402B%20-%20402-02-013%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQXFYbDM2VThCUzA/view?resourcekey=0-ZKcIXX88AGMm8BwCkM_cfA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQXFYbDM2VThCUzA&resourcekey=0-ZKcIXX88AGMm8BwCkM_cfA" width="240" alt="1970 - M402B - 402-09-001 - TIR' MINBEND RAD UNLESS SPECIFIED.jpg"></a><br><sub>1970|3 · 402-09-001 - TIR' MINBEND RAD UNLESS SPECIFIED · <a href="SCHEMATICS/1970%20-%20M402B%20-%20402-09-001%20-%20TIR%27%20MINBEND%20RAD%20UNLESS%20SPECIFIED%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV0Y3cmZEUGE3VnM/view?resourcekey=0-HiDU6vt3xSsS3XhdPXEfRQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV0Y3cmZEUGE3VnM&resourcekey=0-HiDU6vt3xSsS3XhdPXEfRQ" width="240" alt="1970 - M402B - 404-09-002 - BEND RAD UNLESS SPECIFIED.jpg"></a><br><sub>1970|3 · 404-09-002 - BEND RAD UNLESS SPECIFIED · <a href="SCHEMATICS/1970%20-%20M402B%20-%20404-09-002%20-%20BEND%20RAD%20UNLESS%20SPECIFIED%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSldscXZjVFNUZWs/view?resourcekey=0-uqJqjeTMKiwW46BqTE0XWA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSldscXZjVFNUZWs&resourcekey=0-uqJqjeTMKiwW46BqTE0XWA" width="240" alt="1971 - M402B - B 1-139-06-001 - M402B EQUALIZER MODULE PCB - COMPONENT LAYOUT.gif"></a><br><sub>1971|4 · B 1-139-06-001 - M402B EQUALIZER MODULE PCB - COMPONENT LAYOUT</sub></td></tr>
 </table>
 
 Not on Google Drive yet: `1971 - 1-139-02-001 - EQUALIZER MODULE PCB SCHEMATIC - DRN PHL - ISS 4.jpg`, `1971 - 1-139-06-001 - EQUALIZER MODULE PCB COMPONENT LAYOUT - DRN PHL - ISS 2.jpg`
@@ -98,7 +88,7 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZFpnMzhNLTZ1ZjQ/view?resourcekey=0-axBOaLtqcZIDxAga2W7ItQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZFpnMzhNLTZ1ZjQ&resourcekey=0-axBOaLtqcZIDxAga2W7ItQ" width="240" alt="1970 - M402B - docs-6.gif"></a><br><sub>1970|3 · docs-6</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWktSazhNTWRpVTQ/view?resourcekey=0-clEXMaKm6JEzCKSGitjcgg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWktSazhNTWRpVTQ&resourcekey=0-clEXMaKm6JEzCKSGitjcgg" width="240" alt="1970 - M402B - docs-7.gif"></a><br><sub>1970|3 · docs-7</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B9I0nu1MPkm6Z2lLNEZYQ3ZoUDQ/view?resourcekey=0-5DX4cvFxAiR-D4EmHB4zQg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B9I0nu1MPkm6Z2lLNEZYQ3ZoUDQ&resourcekey=0-5DX4cvFxAiR-D4EmHB4zQg" width="240" alt="1975 - M402B - PRICE LIST - PRICE LIST.jpg"></a><br><sub>1975|8 · PRICE LIST - PRICE LIST</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `m402b-docs-10.gif`, `m402b-docs-8.gif`, `m402b-docs-9.gif`
+Not on Google Drive yet: `m402b-docs-8.gif`, `m402b-docs-9.gif`
 
 ## KiCad
 
@@ -114,6 +104,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1970 - M402B - Equalizer p12.kicad_sch](KICAD/1970%20-%20M402B%20-%20Equalizer%20p12.kicad_sch)
 - [1971 - 1-139-02-001 - EQUALIZER MODULE PCB SCHEMATIC - DRN PHL - ISS 4.kicad_sch](KICAD/1971%20-%201-139-02-001%20-%20EQUALIZER%20MODULE%20PCB%20SCHEMATIC%20-%20DRN%20PHL%20-%20ISS%204.kicad_sch)
 - [M402B.kicad_sym](KICAD/M402B.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
