@@ -38,6 +38,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKajF4Z1JkMFUyUmc/view?resourcekey=0-CVmV3kcT6_HuIWitFKRLkA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKajF4Z1JkMFUyUmc&resourcekey=0-CVmV3kcT6_HuIWitFKRLkA" width="240" alt="1970 - M402B - B 402-04-005 - M402B - EQUALIZER MODULE - LAYOUT.gif"></a><br><sub>1970|3 · B 402-04-005 - M402B - EQUALIZER MODULE - LAYOUT</sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M402B.stl`](MECHANICAL/M402B.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M402B)
+
+- **Size:** 41 × 144.53 mm panel, 165 mm deep, 3.2 mm plate (assumed 41 mm wide (1.6"), the drawn panel's proportions)
+- **From the drawing:** 4 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M402B - front panel.svg`)
+- the drawn panel is 0.25 wide to high, the size 0.28: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M402B.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
