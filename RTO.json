@@ -7,107 +7,6 @@
  "verified": null,
  "derived": false,
  "variant_of": null,
- "pins": [
-  {
-   "pin": "5",
-   "signal": "EQ IN LEFT",
-   "kind": "in",
-   "pair": "A1",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "6",
-   "signal": "EQ IN RIGHT",
-   "kind": "in",
-   "pair": "A3",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "8",
-   "signal": "EQ IN LEFT",
-   "kind": "in",
-   "pair": "A1",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "13",
-   "signal": "EQ OUT LEFT",
-   "kind": "out",
-   "pair": "A2",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "14",
-   "signal": "EQ OUT LEFT",
-   "kind": "out",
-   "pair": "A2",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "18",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "19",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "20",
-   "signal": "+24 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "22",
-   "signal": "+48 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M402B/M402B.rto144.json",
-   "page": 1
-  }
- ],
  "straps": [
   {
    "function": "600Ω Input",
@@ -144,5 +43,106 @@
  ],
  "sources": [
   "Engineering/RTO-144/M402B/M402B.rto144.json"
- ]
+ ],
+ "pins": [
+  {
+   "connector": "",
+   "pin": "5",
+   "signal": "EQ IN LEFT",
+   "kind": "in",
+   "port": "A1",
+   "polarity": "+"
+  },
+  {
+   "connector": "",
+   "pin": "6",
+   "signal": "EQ IN RIGHT",
+   "kind": "in",
+   "port": "A3",
+   "polarity": "-"
+  },
+  {
+   "connector": "",
+   "pin": "7",
+   "signal": "JMP.6.7",
+   "kind": "strap",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "8",
+   "signal": "EQ IN LEFT",
+   "kind": "in",
+   "port": "A1",
+   "polarity": "-"
+  },
+  {
+   "connector": "",
+   "pin": "13",
+   "signal": "EQ OUT LEFT",
+   "kind": "out",
+   "port": "A2",
+   "polarity": "+"
+  },
+  {
+   "connector": "",
+   "pin": "14",
+   "signal": "EQ OUT LEFT",
+   "kind": "out",
+   "port": "A2",
+   "polarity": "-"
+  },
+  {
+   "connector": "",
+   "pin": "15",
+   "signal": "JMP.15.16 = 300Ω->620Ω->300Ω",
+   "kind": "strap",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "16",
+   "signal": "JMP.15.16 = 300Ω->620Ω->300Ω",
+   "kind": "strap",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "18",
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "19",
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "20",
+   "signal": "VCC-LAMP +24 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "22",
+   "signal": "VCC-AUDIO +48 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "built_from": {
+  "synthesized": "tools/symbol_synth.py in WBSps.ca from Engineering/RTO-144/M402B/M402B.rto144.json"
+ }
 }
