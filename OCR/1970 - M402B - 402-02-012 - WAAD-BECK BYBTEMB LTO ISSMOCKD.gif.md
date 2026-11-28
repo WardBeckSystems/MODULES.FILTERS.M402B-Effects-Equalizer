@@ -1,5 +1,5 @@
 # 1970 - M402B - 402-02-012 - WAAD-BECK BYBTEMB LTO ISSMOCKD.gif
-Wiki page: [M402B](../../../../PAGES/M402B.md)
+Wiki page: [M402B](../)
 
 
 - **Year:** 1970 (found in this file: "DATE JAN 70")

@@ -1,5 +1,5 @@
 # 1971 - M402B - B 1-139-06-001 - M402B EQUALIZER MODULE PCB - COMPONENT LAYOUT.gif
-Wiki page: [M402B](../../../../PAGES/M402B.md)
+Wiki page: [M402B](../)
 
 
 - **Year:** 1971 (found in this file: "DATE Oct 71")

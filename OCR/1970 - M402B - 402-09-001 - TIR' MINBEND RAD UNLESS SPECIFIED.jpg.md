@@ -1,5 +1,5 @@
 # 1970 - M402B - 402-09-001 - TIR' MINBEND RAD UNLESS SPECIFIED.jpg
-Wiki page: [M402B](../../../../PAGES/M402B.md)
+Wiki page: [M402B](../)
 
 
 - **Year:** 1970 (module estimate (labelled))

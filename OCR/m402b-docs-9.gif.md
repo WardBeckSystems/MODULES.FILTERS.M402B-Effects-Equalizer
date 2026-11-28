@@ -1,5 +1,5 @@
 # m402b-docs-9.gif
-Wiki page: [M402B](../../../../PAGES/M402B.md)
+Wiki page: [M402B](../)
 
 
 - **Year:** unknown (title block (read by eye))

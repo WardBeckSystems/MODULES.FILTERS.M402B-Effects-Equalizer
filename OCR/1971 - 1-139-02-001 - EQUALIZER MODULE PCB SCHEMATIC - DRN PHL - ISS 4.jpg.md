@@ -1,5 +1,5 @@
 # 1971 - 1-139-02-001 - EQUALIZER MODULE PCB SCHEMATIC - DRN PHL - ISS 4.jpg
-Wiki page: [M402B](../../../../PAGES/M402B.md)
+Wiki page: [M402B](../)
 
 
 - **Year:** 1971 (title block date)

@@ -1,5 +1,5 @@
 # 1970 - M402B - B 402-04-005 - M402B - EQUALIZER MODULE - LAYOUT.gif
-Wiki page: [M402B](../../../../PAGES/M402B.md)
+Wiki page: [M402B](../)
 
 
 - **Year:** 1970 (module estimate (labelled))

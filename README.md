@@ -1,6 +1,6 @@
 # M402B Effects Equalizer · Filters
 
-Ward-Beck Systems M402B, 1970|3. Wiki page: [M402B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M402B.html)
+Ward-Beck Systems M402B, 1970|3. Wiki page: [M402B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M402B-Effects-Equalizer/)
 
 | Folder | What is in it | Files |
 |---|---|---|

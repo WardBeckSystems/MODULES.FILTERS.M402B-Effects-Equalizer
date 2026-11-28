@@ -1,5 +1,5 @@
 # 1970 - M402B - wbsps - module - m402b equalizer 002_small.jpg
-Wiki page: [M402B](../../../../PAGES/M402B.md)
+Wiki page: [M402B](../)
 
 
 - **Year:** 1970 (module estimate (labelled))

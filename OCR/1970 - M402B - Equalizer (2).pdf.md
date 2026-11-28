@@ -1,5 +1,5 @@
 # 1970 - M402B - Equalizer (2).pdf
-Wiki page: [M402B](../../../../PAGES/M402B.md)
+Wiki page: [M402B](../)
 
 
 - **Year:** 1970 (found in this file: "DATE JAN 70")
